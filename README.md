@@ -4,7 +4,7 @@
 - 📍 Rio de Janeiro / RJ
 - 🚀 Estou atualmente procurando por um estágio na área de Desenvolvimento.
 - 👨🏽‍🎓 Cursando graduação em Análise e Desenvolvimento de Sistemas.
-- 👨🏽‍💻 Estudando sobre ReactJS com Next + TypeScript.
+- 👨🏽‍💻 Estudando sobre ReactJS.
 
 		🎸 Bora fazer um som 🎼
 ###
