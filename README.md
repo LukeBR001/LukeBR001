@@ -2,9 +2,8 @@
 ### Eterno estudante em busca de conhecimento. Amante da tecnologia e da música.
 
 - 📍 Rio de Janeiro / RJ
-- 🚀 Estou atualmente procurando por um estágio na área de Desenvolvimento.
+- 🚀 Estou atualmente atuando como estagiário de Desenvolvimento.
 - 👨🏽‍🎓 Cursando graduação em Análise e Desenvolvimento de Sistemas.
-- 👨🏽‍💻 Estudando sobre ReactJS.
 
 		🎸 Bora fazer um som 🎼
 ###
