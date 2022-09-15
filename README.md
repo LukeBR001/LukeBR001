@@ -3,7 +3,7 @@
 
 - 📍 Rio de Janeiro / RJ
 - 🚀 Estou atualmente atuando como Development Analyst.
-- 👨🏽‍🎓 Cursando graduação em Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 
 		🎸 Bora fazer um som 🎼
 ###
