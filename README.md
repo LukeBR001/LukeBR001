@@ -2,7 +2,7 @@
 ### Eterno estudante em busca de conhecimento. Amante da tecnologia e da música.
 
 - 📍 Rio de Janeiro / RJ
-- 🚀 Estou atualmente atuando como estagiário de Desenvolvimento.
+- 🚀 Estou atualmente atuando como Development Analyst.
 - 👨🏽‍🎓 Cursando graduação em Análise e Desenvolvimento de Sistemas.
 
 		🎸 Bora fazer um som 🎼
